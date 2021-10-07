@@ -1,11 +1,13 @@
 # create-array-from-txt
 txt情報からいい感じに配列を生成する。
 
+## 各種サービスのversion
+
 | サービス | version |
 | ------------- | ------------- |
 | Python  | 3.8.6  |
 
-# zipをダウンロードしてから動作確認する
+## zipをダウンロードしてから動作確認する
 1. https://github.com/kuroroblog/create-array-from-txt へアクセスする。
 2. 緑色の「Code」と書かれたボタンを選択
 3. 「Download ZIP」を選択
